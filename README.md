@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11&height=400&desc=Hello%20👋,%20I'm%20|%20Salut%20🌺,%20je%20suis%20|%20お疲れ様です私は&descSize=30&descAlignY=30&text=Cecilia%20Peña&animation=fadeIn)
 
 ## 🚀 About Me
-I'm a Software Engineering student interested in a holistic approach and knowledge acquisition.
+I'm a Software Engineering student involved in a holistic approach and knowledge acquisition.
 <img src="CV.png" width="850" height="1285"/>
   
 ## 🧠 I'm currently learning...
@@ -16,7 +16,7 @@ I'm a Software Engineering student interested in a holistic approach and knowled
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="90" height="90" />
 </p>
 
-## ⚡️ Interesting fact...
+## ⚡️ Curious fact...
 I'm looking to specialize in Cybersecurity.
 
 <img src="Footer.png" width="850"/>
