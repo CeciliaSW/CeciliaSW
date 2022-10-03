@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11&height=400&desc=Saludos%20👋,%20soy%20|%20Greetings%20☕,%20I%20am%20|%20Bonjour%20🌺,%20je%20suis%20|%20こんにちは私は&descSize=20&descAlignY=30&text=Cecilia%Peña&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11&height=400&desc=Saludos%20👋,%20soy%20|%20Greetings%20☕,%20I%20am%20|%20Bonjour%20🌺,%20je%20suis%20|%20こんにちは私は&descSize=20&descAlignY=30&text=Cecilia%20Peña&animation=fadeIn)
 
 ## 🚀 About me
 I am a Software Engineering student involved in a holistic approach and knowledge acquisition.
