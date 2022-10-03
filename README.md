@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 I'm a Software Engineering student interested in a holistic approach and knowledge acquisition.
-
+<img src="CV.png" width="850" height="1285"/>
+  
 ## 🧠 I'm currently learning...
 <p float="left">
   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="100" height="100" />
