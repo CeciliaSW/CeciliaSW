@@ -19,4 +19,4 @@ I'm a Software Engineering student interested in a holistic approach and knowled
 ## ⚡️ Interesting fact...
 I'm looking to specialize in Cybersecurity.
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11&height=400&text=Contact%20me&desc=mpb74513@udelasalle.edu.mx&descSize=30&descAlignY=70&animation=fadeIn&section=footer)
+<img src="Footer.png" width="850"/>
