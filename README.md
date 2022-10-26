@@ -22,12 +22,12 @@ I am a Software Engineering student involved in a holistic approach and knowledg
 </div col>
 <h3>Tools:</h3>
 <div col>
-  <img src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" width="70" height="70" />
-  <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" width="70" height="70" />
-  <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" width="70" height="70" />
-  <img src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo.png" width="50" height="70" />
-  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="60" height="60" />
-  <img src="https://schwabencode.com/contents/logos/VS2019-Badge.png" width="70" height="70" />
+  <img src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" width="60" height="60" />
+  <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" width="60" height="60" />
+  <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" width="60" height="60" />
+  <img src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo.png" width="50" height="60" />
+  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="50" height="50" />
+  <img src="https://schwabencode.com/contents/logos/VS2019-Badge.png" width="60" height="60" />
 </div col>
 </p>
 
