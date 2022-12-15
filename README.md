@@ -24,7 +24,7 @@ I am a Software Engineering student involved in a holistic approach and knowledg
 </div col>
 <h3>Frameworks:</h3>
  <div col>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="70" height="70" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="80" height="70" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" width="70" height="70" />
   <img src="https://www.jacobsoft.com.mx/wp-content/uploads/2020/04/node-js-736399_960_720-2.png" width="90" height="70" />
  </div col>
