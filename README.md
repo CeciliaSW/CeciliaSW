@@ -38,7 +38,11 @@ I am a Software Engineering student involved in a holistic approach and knowledg
 </div col>
 </p>
 
-## ⚡️ Curious fact...
+## 🖊️ Highlights
+I took the TECHNOLOchicas PRO course.
+ <img src="https://technolochicas.org/templatesitio/assets/img/logo-color-high.png" width="850"/>
+
+## ⚡️ Curious fact
 I have the objective to specialize in Cybersecurity.
 
 <img src="Contact.png" width="850"/>
