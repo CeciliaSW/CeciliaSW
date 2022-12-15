@@ -6,20 +6,27 @@ I am a Software Engineering student involved in a holistic approach and knowledg
   
 ## 🧠 Currently learning...
 <p float="left">
+  <h3>Backend:</h3>
+<div col>
+  <img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" width="60" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="70" height="70" />
+  <img src="https://www.blockachain.gr/wp-content/uploads/2018/03/java-coffee-cup-logo.png" width="70" height="70" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="70" height="70" />
+  <img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" width="30" height="70" />
+</div col>
 <h3>Front-end and web:</h3>
 <div col>
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="70" height="70"/>
   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="70" height="70" />
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="70" height="70" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="70" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="70" height="70" /> 
 </div col>
-<h3>Programming and databases:</h3>
-<div col>
-  <img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" width="60" height="70" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="70" height="70" />
-  <img src="https://www.blockachain.gr/wp-content/uploads/2018/03/java-coffee-cup-logo.png" width="70" height="70" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="70" height="70" />
-</div col>
+<h3>Frameworks:</h3>
+ <div col>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" width="70" height="70" />
+  <img src="https://www.jacobsoft.com.mx/wp-content/uploads/2020/04/node-js-736399_960_720-2.png" width="90" height="70" />
+ </div col>
 <h3>Tools:</h3>
 <div col>
   <img src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" width="60" height="60" />
