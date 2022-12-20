@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 I am a Software Engineering student involved in a holistic approach and knowledge acquisition.
-<img src="GH_CV.jpg" width="850"/>
+<img src="GitHub_CV.png" width="850"/>
   
 ## 🧠 Currently learning...
 <p float="left">
