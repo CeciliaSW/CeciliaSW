@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2&height=400&desc=Saludos%20👋,%20soy%20|%20Greetings%20☕,%20I%20am%20|%20Bonjour%20🌺,%20je%20suis%20|%20こんにちは私は&descSize=20&descAlignY=30&text=Cecilia%20Peña&animation=fadeIn)
 
-## 🚀 About me
-I am a Software Engineering student involved in a holistic approach and knowledge acquisition.
+## 🚀 About
+Software Engineering student involved in a holistic approach and knowledge acquisition.
 <img src="GitHub_CV.png" width="850"/>
   
 ## 🧠 Currently learning...
@@ -40,10 +40,10 @@ I am a Software Engineering student involved in a holistic approach and knowledg
 </p>
 
 ## 🖊️ Highlights
-I took the TECHNOLOchicas PRO course.
+Took the TECHNOLOchicas PRO course.
  <img src="https://technolochicas.org/templatesitio/assets/img/logo-color-high.png" width="850"/>
 
 ## ⚡️ Curious fact
-I have the objective to specialize in Cybersecurity.
+The objective is to specialize in Cybersecurity.
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=2,2&height=400&desc=✉%20cecilia.bravo.software@gmail.com&descSize=30&descAlignY=65&text=Contact%20me&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=2,2&height=400&desc=✉%20cecilia.bravo.software@gmail.com&descSize=30&descAlignY=65&text=Contact&animation=fadeIn)
